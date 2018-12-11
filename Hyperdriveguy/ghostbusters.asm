@@ -1,5 +1,5 @@
 ; Ghostbusters Theme - Ray Parker Jr.
-; Demixed by Hyperdriveguy
+; Arranged by Hyperdriveguy
 
 Music_Ghostbusters:
 	musicheader 3, 1, Music_Ghostbusters_Ch1

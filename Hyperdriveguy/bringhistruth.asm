@@ -1,6 +1,6 @@
 ; We'll Bring The World His Truth - Children's Songbook of the
 ; Church of Jesus Christ of Latter-day Saints
-; Demixed by Hyperdriveguy
+; Arranged by Hyperdriveguy
 
 Music_BringHisTruth:
 	musicheader 4, 1, Music_BringHisTruth_Ch1

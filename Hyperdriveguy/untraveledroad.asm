@@ -1,5 +1,5 @@
 ; Untraveled Road - Thousand Foot Krutch
-; Demixed by Hyperdriveguy
+; Arranged by Hyperdriveguy
 
 Music_UntraveledRoad:
 	musicheader 4, 1, Music_UntraveledRoad_Ch1

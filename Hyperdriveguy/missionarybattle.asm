@@ -1,6 +1,6 @@
 ; Battle! Missionary (Called to Serve) - No. 249 in the 1985 Hymnbook
 ; Of the Church of Jesus Christ of Latter-day Saints
-; Demixed by Hyperdriveguy
+; Arranged by Hyperdriveguy
 
 Music_MissionaryBattle:
 	musicheader 3, 1, Music_MissionaryBattle_Ch1
