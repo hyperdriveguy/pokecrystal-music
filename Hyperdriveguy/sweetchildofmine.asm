@@ -1,4 +1,4 @@
-; Sweet Child o' Mine
+; Sweet Child o' Mine - Guns 'n Roses
 ; Demixed by Hyperdriveguy
 
 Music_SweetChildOfMine:
