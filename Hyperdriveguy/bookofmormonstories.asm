@@ -1,3 +1,7 @@
+; Book of Mormon Stories - Children's Songbook of the
+; Church of Jesus Christ of Latter-day Saints
+; Demixed by Hyperdriveguy
+
 Music_BookOfMormonStories:
 	musicheader 3, 1, Music_BookOfMormonStories_Ch1
 	musicheader 1, 2, Music_BookOfMormonStories_Ch2
