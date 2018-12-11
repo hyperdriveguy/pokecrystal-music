@@ -1,5 +1,5 @@
 ; White Stripes - Seven Nation Army
-; Demixed by Hyperdriveguy
+; Arranged by Hyperdriveguy
 
 Music_SevenNationArmy:
 	musicheader 4, 1, Music_SevenNationArmy_Ch1
